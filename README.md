@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @khasiba
+- 👋 Hi, I’m @kbb
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on data science projects
-- 📫 How to reach me bibikhasiba@gmail.com
+- 📫 How to reach me kbibi828@gmail.com
 
 <!---
 khasiba/khasiba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
